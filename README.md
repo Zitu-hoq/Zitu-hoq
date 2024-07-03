@@ -6,7 +6,7 @@
 
 - 🔭 I’m currently working on **Malware Detection using Machine Learning**
 
-- 🌱 I’m currently learning **Cyber Security using Machine Learning.**
+- 🌱 I’m currently learning **Digital Forensics.**
 
 - 💬 Ask me about **React, Cyber Security, Ethical Hacking, Machine Learning**
 
