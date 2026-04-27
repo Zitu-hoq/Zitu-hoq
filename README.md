@@ -12,7 +12,7 @@
 
 <br><br><br>
 <h3 align="left">Languages and Tools:</h3>
-<p align="left">
+<div style="display: flex; flex-wrap: wrap; gap: 10px;">
   <a href="https://www.arduino.cc/" target="_blank" rel="noreferrer" style="display:inline-block; margin:10px;">
     <img src="https://cdn.worldvectorlogo.com/logos/arduino-1.svg" alt="arduino" width="40" height="40"/>
   </a>
@@ -76,7 +76,7 @@
   <a href="https://www.tensorflow.org" target="_blank" rel="noreferrer" style="display:inline-block; margin:10px;">
     <img src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" alt="tensorflow" width="40" height="40"/>
   </a>
-</p>
+</div>
 
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=zitu-hoq&show_icons=true&locale=en&layout=compact" alt="zitu-hoq" /></p>
