@@ -4,9 +4,9 @@
 <img align="right" alt="Coding" width="400" src="https://mir-s3-cdn-cf.behance.net/project_modules/disp/2bbf3a52005319.5901123c114f4.gif">
 <p align="left"> <img src="https://komarev.com/ghpvc/?username=zitu-hoq&label=Profile%20views&color=0e75b6&style=flat" alt="zitu-hoq" /> </p>
 
-- 🔭 I’m currently working on **Malware Detection using Machine Learning**
+- 🔭 I’m currently working on **Spring Boot projects**
 
-- 🌱 I’m currently learning **Digital Forensics.**
+- 🌱 I’m currently learning **Spring Boot & Digital Forensics**
 
 - 💬 Ask me about **React, Cyber Security, Ethical Hacking, Machine Learning**
 
